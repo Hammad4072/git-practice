@@ -1,6 +1,4 @@
-body{
-    background-color: transparent;
-}
+
 .note{
     width: 100%;
     height: 2rem;
